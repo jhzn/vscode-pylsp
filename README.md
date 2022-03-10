@@ -12,7 +12,14 @@ For documentation see [pylsp's](https://github.com/python-lsp/python-lsp-server)
 
 # Installation(VSCode extension only)
 
-## Install from source
+## Download extension file
+
+```shell
+curl -L "https://github.com/jhzn/vscode-pylsp/releases/download/v0.0.1/vscode-pylsp-0.0.1.vsix" --output vscode-pylsp-0.0.1.vsix
+code --install-extension vscode-pylsp-0.0.1.vsix
+```
+
+## From source
 
 ```shell
 git clone https://github.com/jhzn/vscode-pylsp
