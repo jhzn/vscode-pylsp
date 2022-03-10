@@ -40,7 +40,9 @@ This is early software, do not expect perfection.
 # Inspiration
 
 https://github.com/microsoft/vscode-extension-samples/blob/main/lsp-sample/client/src/extension.ts
+
 https://github.com/palantir/python-language-server/tree/develop/vscode-client
+
 https://gitlab.com/torokati44/vscode-glspc
 
 # License
